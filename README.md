@@ -23,3 +23,7 @@
 <a href="https://github.com/dylan-power/dinosaur-exploder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-power&repo=dinosaur-exploder" />
 </a>
+<a href="https://github.com/jvondermarck/kingdomino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvondermarck&repo=kingdomino" />
+</a>
+
