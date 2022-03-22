@@ -1,14 +1,10 @@
 </p>
 <p align='center'>
-   <img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="400" height="200">
+   <img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" width="600" height="350">
 </p>
 <p align='center'>
 <a align='center'>
-<a> Places where you can find me: </a>&nbsp;&nbsp;
- <div align='center'>
-    
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-von-der-marck/)](https://www.linkedin.com/in/julien-von-der-marck/)
-[![Github Badge](https://img.shields.io/github/followers/jvondermarck?style=social)](https://github.com/jvondermarck/)
+<div align='center'>
 
 ### Hi there, I'm Julien 🔥
 
@@ -34,7 +30,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/julien-von-der-marck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-von-der-marck" height="30" width="40" /></a>
+ <a href="https://github.com/jvondermarck" target="_blank">
+   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/julien-von-der-marck" target="_blank">
+   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  <br>
 <a href="https://www.hackerrank.com/vondei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vondei" height="30" width="40" /></a>
 <a href="https://discord.gg/user/Von%20Dai#0543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Von Dai#0543" height="30" width="40" /></a>
 </p>
