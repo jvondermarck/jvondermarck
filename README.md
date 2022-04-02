@@ -26,6 +26,9 @@
 <a href="https://github.com/jvondermarck/kingdomino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvondermarck&repo=kingdomino" />
 </a>
+<a href="https://github.com/jvondermarck/manage-event">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvondermarck&repo=manage-event" />
+</a>
 
 
 <h3 align="center">Connect with me:</h3>
