@@ -1,6 +1,6 @@
 </p>
 <p align='center'>
-   <img src="https://github.com/jvondermarck/jvondermarck/blob/main/GIF%20Intro.gif">
+   <img src="https://github.com/jvondermarck/jvondermarck/blob/main/GIF%20Intro.gif" width="400" height="225">
 </p>
 <p align='center'>
 <a align='center'>
