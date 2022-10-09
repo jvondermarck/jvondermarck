@@ -14,8 +14,8 @@
 📫 How to reach me [Gmail](mailto:vdmjulien05@gmail.com) <br/>
 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/julien-von-der-marck/) <br/>
    
-[![Julien's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvondermarck)](https://github.com/anuraghazra/github-readme-stats)
-   
+<!-- [![Julien's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvondermarck)](https://github.com/anuraghazra/github-readme-stats)
+    -->
 [![Julien's github stats](https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Some projects I've done:</h3>
