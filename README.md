@@ -13,7 +13,6 @@
 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/julien-von-der-marck/) <br/>
 📫 How to reach me [Gmail](mailto:vdmjulien05@gmail.com) <br/>
 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/julien-von-der-marck/) <br/>
-⚡ Fun fact **I'm firefighter ?** <br/>
    
 [![Julien's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvondermarck)](https://github.com/anuraghazra/github-readme-stats)
    
