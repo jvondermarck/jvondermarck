@@ -1,6 +1,6 @@
 # Welcome, I'm Julien 👋🏽👨🏽‍💻
 
-> I'm a `software engineer` who is passionate about making contributing to open-source more approachable. I do love to learn new things and I'm always looking for new challenges. I'm interested in web development, mobile development, and game development. 
+> I'm a `software engineer student` who is passionate about making contributing to open-source more approachable. I do love to learn new things and I'm always looking for new challenges. I'm interested in web development, mobile development, and game development. 
 
 <br>
 <p align='center'>
