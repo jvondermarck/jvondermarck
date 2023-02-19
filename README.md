@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## 🌎 Find me around the web 🌎 <img align="left" width="150" height="150" src="idea.png">
 - Interract with me on <a href="https://discord.com/users/384327361560182784">Discord</a> <img align="center" width="18" height="20" src="discord.png">
 - Sharing updates on <a href="https://www.linkedin.com/in/jvondermarck/">LinkedIn</a> <img align="center" width="17" height="18" src="linkedin.png">
-<br><br>
+<br><br><br>
 
 ## ⭐ Look at my stats ⭐ <img align="left" width="150" height="150" src="nerd.png">
 <div align="left">
