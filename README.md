@@ -1,17 +1,10 @@
 # Welcome, I'm Julien 👋🏽👨🏽‍💻
 
-
-<p>
-<img align='left' style='margin-right: 20px' width="300" height="160"src="https://user-images.githubusercontent.com/62793491/161388764-529bbb57-c595-4785-9de0-87d837df2582.gif">
 I'm a software engineer who is passionate about making contributing to open-source more approachable. I do love to learn new things and I'm always looking for new challenges. I'm interested in web development, mobile development, and game development. 
-</p>
-
-
-<br>
 
 ## Look at my stats ⭐: 
 <div align="left">
-<img align="center" width="350" height="180" style="margin-top: -20px" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
+<img align="center" width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 
