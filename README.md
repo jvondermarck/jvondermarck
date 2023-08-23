@@ -17,5 +17,6 @@
 
 ## ⭐ Look at my stats ⭐ <img align="left" width="130" height="130" src="nerd.png">
 <div align="left">
-<img align="" width="250" height="130" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
+<img align="" width="250" height="130" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true" />
+
 </div>
