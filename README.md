@@ -1,22 +1,32 @@
-# Welcome, I'm Julien 👋🏽👨🏽‍💻
+# Hi, I'm Julien 👋🏽
+[![Linkedin: julien-von-der-marck](https://img.shields.io/badge/-jvondermarck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-von-der-marck/)](https://www.linkedin.com/in/thaianebraga/)
+[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/384327361560182784)
+[![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=follow&style=social)](https://github.com/jvondermarck)
 
-> I'm a `software engineer student` who is passionate about making contributing to open-source more approachable. I do love to learn new things and I'm always looking for new challenges. I'm interested in web development, mobile development, and game development. 
+### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> A little more about me...  
+```javascript
+const Julien = {
+  pronouns: "juju",
+  nationality: "FR",
+  roles: [
+    "Software Engineer student",
+    "Volunteer Firefighter",
+  ],
+  code: [
+    "C++", "C#", "C", "Unity", 
+    "Angular", "Nest.JS", "Next.JS", 
+    "Java", "React", "ASP.NET", "Python"
+  ],
+  beliefs: [
+    "I support clean code",
+    "I support open source projects"
+  ]
+}
+```
 
 <br>
-<p align='center'>
-<img align='center' width="300" height="170"src="https://user-images.githubusercontent.com/62793491/161388764-529bbb57-c595-4785-9de0-87d837df2582.gif">
-</p>
 
-
-<br>
-
-## 🌎 Find me around the web 🌎 <img align="left" width="150" height="150" src="idea.png">
-↪️ Interract with me on <a href="https://discord.com/users/384327361560182784">Discord</a> <img align="center" width="18" height="20" src="discord.png"><br>
-↪️ Sharing updates on <a href="https://www.linkedin.com/in/julien-von-der-marck/">LinkedIn</a> <img align="center" width="17" height="18" src="linkedin.png">
-<br><br><br>
-
-## ⭐ Look at my stats ⭐ <img align="left" width="130" height="130" src="nerd.png">
+### <img width="25" height="25" src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47nzb9exsdzr7clsqrhrs8ujs8i1xir85wrysh6fx3&ep=v1_stickers_search&rid=giphy.gif&ct=s"> My GitHub Stats... 
 <div align="left">
-<img align="" width="250" height="130" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true" />
-
+  <img align="" width="280" height="130" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true" />
 </div>
