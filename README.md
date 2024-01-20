@@ -1,8 +1,7 @@
 # Hii, I'm Julien 👋🏽
-[![Linkedin: julien-von-der-marck](https://img.shields.io/badge/Linkedin-%E2%9A%A1%20jvondermarck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-von-der-marck/)](https://www.linkedin.com/in/julien-von-der-marck/)
-[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-blue?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/384327361560182784)
-[![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=Follow&style=social)](https://github.com/jvondermarck)
-
+[![Linkedin: julien-von-der-marck](https://img.shields.io/badge/Linkedin-jvondermarck-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-von-der-marck/)](https://www.linkedin.com/in/julien-von-der-marck/)
+[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/384327361560182784)
+[![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=Followers&style=for-the-badge&color=black&logo=github)](https://github.com/jvondermarck)
 
 ### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> __A little more about me...__
 ```javascript
@@ -12,6 +11,7 @@ const Julien = {
   roles: [
     "Software Engineer student👨🏼‍🎓",
     "Volunteer Firefighter🚒",
+    "Pizzaiolo🍕",
   ],
   code: [
     "C++", "C#", "C", "Unity", 
