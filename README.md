@@ -6,7 +6,7 @@
 
 ### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> __A little more about me...__
 
-<img src="https://github.com/user-attachments/assets/c026b269-49e2-4a97-8b0f-d3d207434736" alt="carbon" height="400">
+<img src="carbon.svg" alt="carbon" height="auto">
 
 
 <!--
