@@ -1,5 +1,6 @@
 # Hii, I'm Julien 👋🏽
-[![Linkedin: julien-von-der-marck](https://img.shields.io/badge/Linkedin-jvondermarck-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-von-der-marck/)](https://www.linkedin.com/in/julien-von-der-marck/)
+[![Linkedin: julien-von-der-marck](https://img.shields.io/badge/Linkedin-resume-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-von-der-marck/)](https://www.linkedin.com/in/julien-von-der-marck/)
+[![Medium](https://img.shields.io/badge/Medium-articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jvondermarck)
 [![Discord](https://img.shields.io/badge/Discord-Contact%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/384327361560182784)
 [![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=Followers&style=for-the-badge&color=black&logo=github)](https://github.com/jvondermarck)
 
