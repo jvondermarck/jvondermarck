@@ -4,20 +4,20 @@
 [![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=Followers&style=for-the-badge&color=black&logo=github)](https://github.com/jvondermarck)
 
 ### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> __A little more about me...__
-```javascript
+```typescript
 const Julien = {
   pronoun: "juju",
   nationality: "FR🥖",
   roles: [
-    "Software Engineer student👨🏼‍🎓",
+    "Software Engineer 👨‍💻",
     "Volunteer Firefighter🚒",
     "Pizzaiolo🍕",
   ],
-  code: [
-    "C++", "C#", "C", "Unity", 
-    "Angular", "Nest.JS", "Next.JS", 
-    "Java", "React", "ASP.NET", "Python"
-  ],
+  skills: {
+    languages: ["Kotlin", "Swift", "Dart", "JavaScript", "TypeScript", "Python", "C#", "C++ / C", "SQL"],
+    frameworks: ["Kotlin Multiplatform", "Flutter", "Angular", "Next.js", "AdonisJS", "ASP.NET", "Laravel"],
+    tools: [ "Figma", "Xcode", "Android Studio"],
+  },
   beliefs: [
     "I support clean code🌱",
     "I support open source projects🗺️"
