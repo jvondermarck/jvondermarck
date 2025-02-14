@@ -5,6 +5,10 @@
 [![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=Followers&style=for-the-badge&color=black&logo=github)](https://github.com/jvondermarck)
 
 ### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> __A little more about me...__
+
+![image](https://github.com/user-attachments/assets/14610181-2959-4d02-95fc-3b14fb2c993f)
+
+<!--
 ```typescript
 const Julien = {
   pronoun: "juju",
@@ -25,6 +29,7 @@ const Julien = {
   ]
 }
 ```
+-->
 
 ### <img align="left" width="60" height="60" src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47nzb9exsdzr7clsqrhrs8ujs8i1xir85wrysh6fx3&ep=v1_stickers_search&rid=giphy.gif&ct=s"> &nbsp; __My GitHub Stats... 📈__
 <div align="left">
