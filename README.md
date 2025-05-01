@@ -4,7 +4,12 @@
 [![Discord](https://img.shields.io/badge/Discord-Contact%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/384327361560182784)
 [![GitHub jvondermarck](https://img.shields.io/github/followers/jvondermarck?label=Followers&style=for-the-badge&color=black&logo=github)](https://github.com/jvondermarck)
 
-### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> __A little more about me...__
+<!--
+#### <img src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35"> __A little more about me...__
+-->
+
+### <img align="left" width="70" height="70" src="https://media0.giphy.com/media/fAhzX1UyhW24KB9TBM/giphy.gif?cid=ecf05e476tjtjei7933jkhjdcbezdlel6e3t2t0t55swfkng&ep=v1_stickers_search&rid=giphy.gif&ct=s"> &nbsp; __A little more about me... 👇🏻__
+
 
 
 <!--
@@ -14,36 +19,40 @@ https://carbon.now.sh/?bg=rgba%28255%2C255%2C255%2C0%29&t=one-dark&wt=none&l=app
 
 -->
 
-```typescript
-const Julien = {
-  pronoun: "juju",
-  nationality: "FR🥖",
-  roles: [
-    "Software Engineer 👨‍💻",
-    "Volunteer Firefighter🚒",
-    "Pizzaiolo🍕",
-  ],
-  skills: {
-    languages: ["Kotlin", "Swift", "Dart", "JavaScript", "TypeScript", "Python", "C#", "C++ / C", "SQL"],
-    frameworks: ["Kotlin Multiplatform", "Flutter", "Angular", "Next.js", "AdonisJS", "ASP.NET", "Laravel"],
-    tools: [ "Figma", "Xcode", "Android Studio"],
-  },
-  beliefs: [
-    "I support clean code🌱",
-    "I support open source projects🗺️"
-  ]
+```swift
+struct Julien {
+    let pronoun = "juju"
+    let nationality = "FR 🥖"
+
+    let roles = [
+        "iOS & Android Software Engineer 👨‍💻",
+        "Volunteer Firefighter 🚒",
+        "Pizzaiolo 🍕"
+    ]
+
+    struct Skills {
+        let languages = ["Kotlin", "Swift", "Dart", "JavaScript", "TypeScript", "Python", "C#", "C++ / C", "SQL"]
+        let frameworks = ["Kotlin Multiplatform", "Flutter", "Angular", "Next.js", "AdonisJS", "ASP.NET", "Laravel"]
+        let tools = ["Figma", "Xcode", "Android Studio"]
+    }
+
+    let skills = Skills()
+
+    let beliefs = [
+        "I support clean code 🌱",
+        "I support open source projects 🗺️"
+    ]
 }
 ```
 
-
-### <img align="left" width="60" height="60" src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47nzb9exsdzr7clsqrhrs8ujs8i1xir85wrysh6fx3&ep=v1_stickers_search&rid=giphy.gif&ct=s"> &nbsp; __My GitHub Stats... 📈__
+#### <img align="left" width="70" height="70" src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47nzb9exsdzr7clsqrhrs8ujs8i1xir85wrysh6fx3&ep=v1_stickers_search&rid=giphy.gif&ct=s"> &nbsp; __My GitHub Stats... 📈__
 <div align="left">
-  &nbsp; 
-  <img align="" width="280" height="130" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true" />
+  &nbsp;   
+  <img align="" width="280" height="130" src="https://github-readme-stats.vercel.app/api?username=jvondermarck&theme=dark&show_icons=true&rank_icon=github" />
 </div>
 
 ---
 
-> [!WARNING]
-> <img width="130" width="130" src="https://media0.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif?cid=ecf05e47q75jdkqxv7v0t0obj9205dkxhg89fnom2p9lc84c&ep=v1_stickers_search&rid=giphy.gif&ct=s"> </br>
+> [!TIP]
+> <img width="130" width="180" src="https://media0.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif?cid=ecf05e47q75jdkqxv7v0t0obj9205dkxhg89fnom2p9lc84c&ep=v1_stickers_search&rid=giphy.gif&ct=s"> </br>
 > _To meditate... 🌞_
