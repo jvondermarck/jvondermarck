@@ -6,7 +6,6 @@
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jvondermarck)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/384327361560182784)
 [![GitHub](https://img.shields.io/github/followers/jvondermarck?label=Follow&style=for-the-badge&color=black&logo=github)](https://github.com/jvondermarck)
-![Profile Views](https://komarev.com/ghpvc/?username=jvondermarck&color=brightgreen&style=for-the-badge)
 
 ---
 
@@ -41,10 +40,18 @@ struct Julien {
 }
 ```
 
----
+### 📌 Featured Projects
 
-### 🚀 Featured Projects
 
+<!-- 
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jvondermarck/dinosaur-exploder)](https://github.com/jvondermarck/dinosaur-exploder)
+-->
+
+<a href="https://github.com/jvondermarck/dinosaur-exploder">
+  <img width="70%" target="_blank" alt="Dinosaur Exploder Game" src="https://github.com/user-attachments/assets/a7825e0f-fbe5-4d67-86f2-5c513a1dc60d" />
+</a>
+
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -56,7 +63,7 @@ Classic arcade shoot 'em up built with **Java & FXGL**
 - 🤝 Contributions welcome! 
 
 </td>
-<!--
+
 <td width="50%">
 #### 📱 [Your Mobile Project]
 Brief description of another cool project
@@ -64,10 +71,11 @@ Brief description of another cool project
 - 🎨 Beautiful UI/UX
 - 🔥 Production-ready
 </td>
--->
 </tr>
 </table>
+-->
 
+<!--
 ---
 
 ### 🛠️ Tech Stack
@@ -124,7 +132,7 @@ Brief description of another cool project
 - **Kotlin Multiplatform for iOS: Integrating Native Libraries and CocoaPods**  ✨
 ➡️ [Read more on Medium](https://medium.com/@jvondermarck)
 
--->
+
 
 ---
 
@@ -138,12 +146,17 @@ I'm always interested in:
 
 > Feel free to reach out via the links above or open an issue on any of my repos!
 
+-->
+
 ---
 
 <div align="center">
-  
-#### 🌟 "Code with passion, contribute with purpose" ~ *I don't know...* 🌟
+<!-- 
+[[Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
+    
+### 🌟 "Code with passion, contribute with purpose" ~ *I don't know...* 🌟
 
-<img src="https://pacman.abozanona.me?username=jvondermarck" />
+<img width="60%" src="https://pacman.abozanona.me?username=jvondermarck" />
 
 </div>
