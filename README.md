@@ -40,16 +40,18 @@ struct Julien {
 }
 ```
 
+<!-- 
 ### 📌 Featured Projects
 
 
-<!-- 
+
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/jvondermarck/dinosaur-exploder)](https://github.com/jvondermarck/dinosaur-exploder)
--->
+
 
 <a href="https://github.com/jvondermarck/dinosaur-exploder">
   <img width="70%" target="_blank" alt="Dinosaur Exploder Game" src="https://github.com/user-attachments/assets/a7825e0f-fbe5-4d67-86f2-5c513a1dc60d" />
 </a>
+-->
 
 <!--
 <table>
@@ -157,6 +159,6 @@ I'm always interested in:
     
 ### 🌟 "Code with passion, contribute with purpose" ~ *I don't know...* 🌟
 
-<img width="60%" src="https://pacman.abozanona.me?username=jvondermarck" />
+<img width="80%" src="https://pacman.abozanona.me?username=jvondermarck" />
 
 </div>
